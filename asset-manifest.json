@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/Company-Website/static/css/main.fe27e105.chunk.css",
-    "main.js": "/Company-Website/static/js/main.8550efb1.chunk.js",
-    "main.js.map": "/Company-Website/static/js/main.8550efb1.chunk.js.map",
+    "main.css": "/Company-Website/static/css/main.cb7b2776.chunk.css",
+    "main.js": "/Company-Website/static/js/main.7f929cdc.chunk.js",
+    "main.js.map": "/Company-Website/static/js/main.7f929cdc.chunk.js.map",
     "runtime-main.js": "/Company-Website/static/js/runtime-main.b1218215.js",
     "runtime-main.js.map": "/Company-Website/static/js/runtime-main.b1218215.js.map",
-    "static/css/2.7a298fe7.chunk.css": "/Company-Website/static/css/2.7a298fe7.chunk.css",
-    "static/js/2.8def8644.chunk.js": "/Company-Website/static/js/2.8def8644.chunk.js",
-    "static/js/2.8def8644.chunk.js.map": "/Company-Website/static/js/2.8def8644.chunk.js.map",
+    "static/css/2.5262f6cb.chunk.css": "/Company-Website/static/css/2.5262f6cb.chunk.css",
+    "static/js/2.f6702b58.chunk.js": "/Company-Website/static/js/2.f6702b58.chunk.js",
+    "static/js/2.f6702b58.chunk.js.map": "/Company-Website/static/js/2.f6702b58.chunk.js.map",
     "index.html": "/Company-Website/index.html",
-    "precache-manifest.cdd9e4cdbf98de625b00707b9c1ab401.js": "/Company-Website/precache-manifest.cdd9e4cdbf98de625b00707b9c1ab401.js",
+    "precache-manifest.a88798396881f93ec17b66d916c8c1dc.js": "/Company-Website/precache-manifest.a88798396881f93ec17b66d916c8c1dc.js",
     "service-worker.js": "/Company-Website/service-worker.js",
-    "static/css/2.7a298fe7.chunk.css.map": "/Company-Website/static/css/2.7a298fe7.chunk.css.map",
-    "static/css/main.fe27e105.chunk.css.map": "/Company-Website/static/css/main.fe27e105.chunk.css.map",
-    "static/js/2.8def8644.chunk.js.LICENSE.txt": "/Company-Website/static/js/2.8def8644.chunk.js.LICENSE.txt",
+    "static/css/2.5262f6cb.chunk.css.map": "/Company-Website/static/css/2.5262f6cb.chunk.css.map",
+    "static/css/main.cb7b2776.chunk.css.map": "/Company-Website/static/css/main.cb7b2776.chunk.css.map",
+    "static/js/2.f6702b58.chunk.js.LICENSE.txt": "/Company-Website/static/js/2.f6702b58.chunk.js.LICENSE.txt",
     "static/media/about.svg": "/Company-Website/static/media/about.f656477c.svg",
     "static/media/first_slide.jpg": "/Company-Website/static/media/first_slide.24e415dc.jpg",
+    "static/media/first_testimonial.jpg": "/Company-Website/static/media/first_testimonial.4f361395.jpg",
     "static/media/home_page.svg": "/Company-Website/static/media/home_page.c84de44a.svg",
-    "static/media/second_slide.jpg": "/Company-Website/static/media/second_slide.6c1c8eb2.jpg",
-    "static/media/third_slide.jpg": "/Company-Website/static/media/third_slide.d45aaf46.jpg"
+    "static/media/second_testimonial.jpg": "/Company-Website/static/media/second_testimonial.6b1f9e68.jpg",
+    "static/media/third_slide.jpg": "/Company-Website/static/media/third_slide.d45aaf46.jpg",
+    "static/media/third_testimonial.jpg": "/Company-Website/static/media/third_testimonial.8ba7516e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b1218215.js",
-    "static/css/2.7a298fe7.chunk.css",
-    "static/js/2.8def8644.chunk.js",
-    "static/css/main.fe27e105.chunk.css",
-    "static/js/main.8550efb1.chunk.js"
+    "static/css/2.5262f6cb.chunk.css",
+    "static/js/2.f6702b58.chunk.js",
+    "static/css/main.cb7b2776.chunk.css",
+    "static/js/main.7f929cdc.chunk.js"
   ]
 }
